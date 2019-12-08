@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7255dc41-417d-4614-9556-61936cc9c7c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UZF1rg46f42mIlq2wEVrOYPVGr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.q12">
+    <configuration name="q11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.q12" />
+        <item itemvalue="Python.q11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7255dc41-417d-4614-9556-61936cc9c7c7" name="Default Changelist" comment="" />
+      <created>1575555998241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575555998241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="243" key="GridCell.Tab.0.bottom" timestamp="1575843148356">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="243" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1575840821332" />
+    <state width="1379" height="243" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1575843148356" />
+    <state width="1379" height="243" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1575837145764" />
+    <state width="1379" height="243" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1575838461476" />
+    <state width="1379" height="243" key="GridCell.Tab.0.center" timestamp="1575843148355">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="243" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1575840821331" />
+    <state width="1379" height="243" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1575843148355" />
+    <state width="1379" height="243" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1575837145763" />
+    <state width="1379" height="243" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1575838461475" />
+    <state width="1379" height="243" key="GridCell.Tab.0.left" timestamp="1575843148355">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="243" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1575840821330" />
+    <state width="1379" height="243" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1575843148355" />
+    <state width="1379" height="243" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1575837145762" />
+    <state width="1379" height="243" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1575838461475" />
+    <state width="1379" height="243" key="GridCell.Tab.0.right" timestamp="1575843148356">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1379" height="243" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1575840821331" />
+    <state width="1379" height="243" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1575843148356" />
+    <state width="1379" height="243" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1575837145763" />
+    <state width="1379" height="243" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1575838461476" />
+    <state x="519" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1575797229874">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="519" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1575797229874" />
+  </component>
+</project>
